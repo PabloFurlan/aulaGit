@@ -1,4 +1,4 @@
-# curdo de git
+# Curso de git
 
 ## Gravando mudanças no repositório
 
@@ -7,3 +7,4 @@
 
 ## Salvando alterações
 * comando git push
+* comando git pull
